@@ -1,0 +1,53 @@
+
+body{
+    background:#FCDBD4;
+    font-family:arial;
+    margin:0;
+    padding: 0;
+}
+
+.accueil1 {
+    height: 100vh;
+    width: 100%;
+    background: rgb(255, 159, 159);
+    
+}
+
+.accueil2 {
+    height: 100vh;
+    width: 100%;
+    background: rgb(196, 255, 252);
+    
+}
+
+.accueil3 {
+    height: 100vh;
+    width: 100%;
+    background: rgb(255, 159, 239);
+    
+}
+
+.container {
+    text-align: center;
+
+    
+}
+
+.boutons {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin: 0 auto;
+}
+
+.test {
+    margin-top: 80vh;
+    width: 20%;
+    height: 30px;
+    border-radius: 20px;
+    background:rgb(255, 159, 239);
+}
+
+
